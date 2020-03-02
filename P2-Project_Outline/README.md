@@ -18,11 +18,7 @@ My application will provide a collaborative space to promote multi-vendor events
 6. Message Board: users with an account can create posts on boards specific to each event. Boards will be private, only viewable by vendors that the event coordinator has invited to the event. 
 
 ### Technologies
-Java
-Spring Boot
-MySQL
-Hibernate
-Thymeleaf templates
+Java, Spring Boot, MySQL, Hibernate, & Thymeleaf templates
 
 ### What I'll Have to Learn
 I will need to learn how to create social media share buttons. 
