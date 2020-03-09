@@ -8,11 +8,11 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-[Event Organizer Wireframe](https://raw.githubusercontent.com/DottieQ/liftoff-assignments/master/P3-Project_Planning/EventOrganizerWireframe.jpg)
+* [Event Organizer Wireframe](https://raw.githubusercontent.com/DottieQ/liftoff-assignments/master/P3-Project_Planning/EventOrganizerWireframe.jpg)
 
-[Vendor Wireframe](https://raw.githubusercontent.com/DottieQ/liftoff-assignments/master/P3-Project_Planning/VendorWireframe.jpg)
+* [Vendor Wireframe](https://raw.githubusercontent.com/DottieQ/liftoff-assignments/master/P3-Project_Planning/VendorWireframe.jpg)
 
-[Public View Wireframe](https://raw.githubusercontent.com/DottieQ/liftoff-assignments/master/P3-Project_Planning/PublicViewerWireframe.jpg)
+* [Public View Wireframe](https://raw.githubusercontent.com/DottieQ/liftoff-assignments/master/P3-Project_Planning/PublicViewerWireframe.jpg)
 
 
 ### Project Tracker
